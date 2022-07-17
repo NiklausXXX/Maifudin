@@ -21,3 +21,5 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/NiklausXXX/Maifudin/blob/main/LICENSE)   
 [![Sparkline](https://stars.medv.io/NiklausXXX/maifudin.svg)](https://stars.medv.io/NiklausXXX/Maifudin)
 ----
+
+> Made with 😇 by [@kampungmaifudin](https://t.me/kampungmaifudin).    
