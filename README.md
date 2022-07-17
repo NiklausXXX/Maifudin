@@ -1,1 +1,1 @@
-<p Maifudin align=center /p>
+<p align=center /p>Maifudin Bot
