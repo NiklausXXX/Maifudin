@@ -1,1 +1,1 @@
-<p Maifudin align=center /p> Maifudin
+<p Maifudin align=center /p>
