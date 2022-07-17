@@ -5,6 +5,8 @@
   <b>Maifudin Bot</b>
 </h1>
 
+<p align="center"><a href="https://replit.com/@FlynnHopper/Generator"> <img src="https://img.shields.io/badge/String%20Session-blue?style=for-the-badge&logo=web" width="220" height="38.45"/></a></p>
+
 <b>A Personal Bot Maifam Update.</b>
 
 [![](https://img.shields.io/badge/Maifudin-darkblue)](#)
