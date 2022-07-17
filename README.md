@@ -2,7 +2,7 @@
   <img src="./resource/logo.jpg" alt="Maifudin Logo">
 </p>
 <h1 align="center">
-  <b>Maifudin Bot</b>
+  <b>𝐌𝐚𝐢𝐟𝐮𝐝𝐢𝐧 𝐁𝐨𝐭</b>
 </h1>
 
 <p align="center"><a href="https://replit.com/@FlynnHopper/Generator"> <img src="https://img.shields.io/badge/String%20Session-blue?style=for-the-badge&logo=web" width="220" height="38.45"/></a></p>
