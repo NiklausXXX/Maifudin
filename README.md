@@ -15,9 +15,9 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/niklausxxx/maifudin/badge/main)](https://www.codefactor.io/repository/github/niklausxxx/maifudin/overview/main)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/NiklausXXX/Maifudin/graphs/commit-activity)
 [![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/niklausxxx/maifudin?style=flat-square)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamUltroid/Ultroid)
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/graphs/contributors)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/NiklausXXX/Maifudin)
+[![Contributors](https://img.shields.io/github/contributors/NiklausXXX/Maifudin?style=flat-square&color=green)](https://github.com/NiklausXXX/Maifudin/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)   
-[![Sparkline](https://stars.medv.io/NiklausXXX/maifudin.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/NiklausXXX/Maifudin/blob/main/LICENSE)   
+[![Sparkline](https://stars.medv.io/NiklausXXX/maifudin.svg)](https://stars.medv.io/NiklausXXX/Maifudin)
 ----
