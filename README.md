@@ -2,4 +2,5 @@
   <img src="./resource/logo.jpg" alt="Maifudin Logo">
 </p>
 <h1 align="center">
-## Maifudin Bot
+  <b>Maifudin Bot</b>
+</h1>
