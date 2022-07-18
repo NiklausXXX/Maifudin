@@ -14,7 +14,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/niklausxxx/maifudin/badge/main)](https://www.codefactor.io/repository/github/niklausxxx/maifudin/overview/main)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/NiklausXXX/Maifudin/graphs/commit-activity)
 [![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/niklausxxx/maifudin?style=flat-square)   
-[![Open Source Star svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/NiklausXXX/Maifudin)
+[![Open Source smile svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/NiklausXXX/Maifudin)
 [![Contributors](https://img.shields.io/github/contributors/NiklausXXX/Maifudin?style=flat-square&color=green)](https://github.com/NiklausXXX/Maifudin/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/NiklausXXX/Maifudin/blob/main/LICENSE)   
