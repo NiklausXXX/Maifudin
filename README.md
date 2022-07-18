@@ -24,4 +24,8 @@
 [![Sparkline](https://stars.medv.io/NiklausXXX/maifudin.svg)](https://stars.medv.io/NiklausXXX/Maifudin)
 ----
 
-> Made with 😇 by [@kampungmaifudin](https://t.me/kampungmaifudin).    
+<h1 align="center">
+  <b>𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 ☕ 𝐛𝐲</b>
+</h1>
+<p align="center"><a href="https://t.me/maifudin"><img src="https://img.shields.io/badge/Telegram-Group-blue?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/kampungmaifudin"><img src="https://img.shields.io/badge/Telegram-Channel-blue?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
